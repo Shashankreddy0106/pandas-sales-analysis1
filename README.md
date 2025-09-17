@@ -33,4 +33,4 @@ This repository contains a Jupyter Notebook with an end-to-end analysis of sales
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Shashankreddy0106/pandas-sales-analysis1
