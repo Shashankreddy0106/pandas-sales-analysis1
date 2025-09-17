@@ -16,12 +16,10 @@ This project analyzes sales data from Kaggle using Python (Pandas, Matplotlib, S
 ## Steps in Analysis
 1. Data cleaning & preprocessing
 2. Exploratory Data Analysis (EDA)
-3. Visualization of trends (top products, seasonal patterns, etc.)
 
 ## Tools Used
 - Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
+- Pandas
 
 ## Insights
 -Its all about handling data , cleaning data, manuplating data using python pandas libraries.
